@@ -99,6 +99,7 @@
     * [R tutorial: Introduction to cleaning data with R](https://www.youtube.com/watch?v=6PVMJE3HBN0) (DataCamp).
 
 * [Nextflow](https://www.nextflow.io/), open source tool than enables reproducible and portable computational workflows across cloud and clusters.
+* [LMU Open Science Center Toolbox](http://www.osc.uni-muenchen.de/toolbox/index.html)
 
 **Research Articles and Reports**
 
